@@ -41,6 +41,6 @@ author = "Fabian Hauser"
 menu = [
     { name = "about", url = "", trailing_slash = true },
     { name = "projects", url = "projects", trailing_slash = true },
-    { name = "travel", url = "travel", trailing_slash = true },
+#    { name = "travel", url = "travel", trailing_slash = true },
 ]
 
