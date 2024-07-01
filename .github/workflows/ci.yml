@@ -21,11 +21,9 @@ jobs:
       - uses: DeterminateSystems/magic-nix-cache-action@main
       - name: Run `nix build`
         run: nix build .
-      - uses: actions/upload-artifact@v4
+      - uses: actions/upload-pages-artifact@v3
         with:
-          name: website
-          path: |
-            result/**
+          path: result/
 
   deploy:
     environment:
@@ -41,5 +39,4 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
         with:
-          artifact_name: "website"
           preview: true
