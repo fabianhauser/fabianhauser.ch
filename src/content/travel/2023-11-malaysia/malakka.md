@@ -14,3 +14,6 @@ local_image = "travel/2023-11-malaysia/malakka/city.jpg"
 +++
 
 ![Malakka](city.jpg)
+
+- Tourism: Shopping streets and music cars
+- Dutch-Portugese-British Legacy

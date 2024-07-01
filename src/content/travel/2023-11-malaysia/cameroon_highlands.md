@@ -13,3 +13,6 @@ local_image = "travel/2023-11-malaysia/cameroon_highlands/cloud_view.jpg"
 +++
 
 ![Cameroon Highlands](cloud_view.jpg)
+
+- Hiking
+- Tea

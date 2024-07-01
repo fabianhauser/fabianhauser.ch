@@ -15,3 +15,9 @@ local_image = "travel/2023-11-malaysia/kuala_lumpur/skyline.jpg"
 
 
 City of towers 
+
+- Rating on Renting
+- Zoo
+- Highrise
+- Malls
+- Batu Caves

@@ -6,7 +6,7 @@ weight = 5
 show_reading_time = false
 +++
 
-A selection of projects and associations I am or was involved with.
+A selection of projects and associations I am (or was) involved with.
 
 ## Computer Science & Open Source
 
